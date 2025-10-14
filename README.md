@@ -1,4 +1,8 @@
 # 🧩 Arquitetura de Microserviços
+<p align="center">
+	<img alt="Tamanho do código no GitHub em bytes" src="https://img.shields.io/github/languages/code-size/gracieleo/microservices-architecture-with-Spring-EAD?color=6272a4" />
+	<img alt="Linguagem principal" src="https://img.shields.io/github/languages/top/gracieleo/microservices-architecture-with-Spring-EAD?color=6272a4"/>
+</p>
 
 ## 📚 Sumário
 
@@ -248,3 +252,4 @@ O ecossistema **Spring** é composto por vários módulos e projetos prontos par
 
 ---
 
+<p align="center"> Desenvolvido com 💜 por Graciele de Oliveira </p>

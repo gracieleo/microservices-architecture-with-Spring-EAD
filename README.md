@@ -1,4 +1,6 @@
-# 🧩 Arquitetura de Microserviços
+<h1 align="center">
+Arquitetura de Microserviços - Projeto EAD
+</h1>
 <p align="center">
 	<img alt="Tamanho do código no GitHub em bytes" src="https://img.shields.io/github/languages/code-size/gracieleo/microservices-architecture-with-Spring-EAD?color=6272a4" />
 	<img alt="Linguagem principal" src="https://img.shields.io/github/languages/top/gracieleo/microservices-architecture-with-Spring-EAD?color=6272a4"/>

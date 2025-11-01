@@ -15,7 +15,7 @@ Arquitetura de Microserviços - Projeto EAD
 
   * [Comunicação Síncrona via HTTP](#-comunicação-síncrona-via-http)
   * [Comunicação Assíncrona via Mensagens e Eventos](#-comunicação-assíncrona-via-mensagens-e-eventos)
-  * [Identificador Distribuído](#-identificador-distribuído)
+  * [Identificador Distribuído](-identificador-distribuído)
   * [Preocupações Transversais](#-preocupações-transversais)
   * [Observabilidade](#-observabilidade)
   * [Segurança](#-segurança)
@@ -24,6 +24,9 @@ Arquitetura de Microserviços - Projeto EAD
 * [Comunicação entre Microserviços](#-comunicação-entre-microserviços)
 * [Assincronia por Mensageria ou Evento](#-assincronia-por-mensageria-ou-evento)
 * [Ecossistema Spring](#-ecossistema-spring)
+* [API RestFul para Microservices](-api-restful-para-microservices)
+   * [Rest](-rest)
+   * [Restful](-restful)
 * [Ferramentas Utilizadas no Projeto](#️-ferramentas-utilizadas-no-projeto)
 
 ---
@@ -202,6 +205,24 @@ O ecossistema **Spring** é composto por vários módulos e projetos prontos par
     * `@Component`
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1f4acf05-0358-415b-bc02-c4ac10547e4b" />
 
+
+---
+# API RestFul para Microservices
+
+Aplicação cliente/servidor para comunicar serviços e garantir a interoperabilidade.
+
+## Rest 
+Modelo arquitetural, conjunto de padrões e boas práticas para o desenvolvimento e uso de APIs.
+
+## RestFul
+É a implementação do modelo Rest. Para ser considerado RestFul deve atender aos 4 niveis do modelo de maturidade de Richardson.
+
+## Niveis do modelo de maturidade de Richardson
+
+* 0 - utilza de protocolo HTTP
+* 1 - utiliza recursos bem definidos, URI representa bem o que expõe
+* 2 - usa de forma semantica os verbos HTTP e os grupos de retorno
+* 3 - possui e implementa hipermidias, link de redirecionamento (Hateoas) 
 
 ---
 
